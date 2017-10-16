@@ -30,7 +30,7 @@
     <repo>https://github.com/ngocdaothanh/cordova-plugin-unswipable-android-status-bar</repo>
     <issue>https://github.com/ngocdaothanh/cordova-plugin-unswipable-android-status-bar/issues</issue>
 
-    <js-module src="www/UnswipableAndroidStatusBarPlugin.js" name="unswipableAndroidStatusBarPlugin">
+    <js-module src="www/unswipableAndroidStatusBarPlugin.js" name="unswipableAndroidStatusBarPlugin">
         <clobbers target="unswipableAndroidStatusBarPlugin" />
     </js-module>
 
